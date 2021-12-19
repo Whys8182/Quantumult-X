@@ -16,7 +16,7 @@
 [rewrite_local]
 
 # Notability解锁订阅
-^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/Congee31/Rules/main/JS/NotabilityProCrack.js
+^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/Whys8182/Quantumult-X/main/JavaScript/NotabilityProCrack.js
 
 [mitm] 
 
