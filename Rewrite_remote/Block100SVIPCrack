@@ -1,0 +1,5 @@
+# Hausd0rff
+hostname = tagit.hyhuo.com
+
+# > 拦截100解锁超级会员
+^https?:\/\/tagit\.hyhuo\.com\/cypt\/block100\/get_vip_info$ url script-response-body https://raw.githubusercontent.com/Whys8182/Quantumult-X/main/JavaScript/Block100SVIPCrack.js
